@@ -1,0 +1,23 @@
+# Unreal Engine generated files
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Build/Receipts/
+
+# Generated files in plugins
+**/Binaries/
+**/Intermediate/
+
+# Local editor and IDE state
+/.vs/
+/.idea/
+/.vscode/
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Developer-only assets
+/Content/Developers/
