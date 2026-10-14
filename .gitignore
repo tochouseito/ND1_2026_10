@@ -13,6 +13,7 @@
 /.vs/
 /.idea/
 /.vscode/
+/.codex/
 *.sln
 *.suo
 *.user
